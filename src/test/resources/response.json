@@ -1,0 +1,79 @@
+{
+    "total_results": 1,
+    "items": [
+        {
+            "company_number": "03054282",
+            "company_type": "ltd",
+            "title": "COMPANY ACCOUNTS LIMITED",
+            "company_status": "active",
+            "date_of_creation": "1995-05-09",
+            "address": {
+                "premises": "33",
+                "postal_code": "HU13 0EL",
+                "country": "England",
+                "locality": "Hessle",
+                "region": "East Yorkshie",
+                "address_line_1": "Southfield"
+            },
+            "officers": [
+                {
+                    "name": "FOWLER, Shaun Robert",
+                    "officer_role": "secretary",
+                    "appointed_on": "1995-05-10",
+                    "address": {
+                        "postal_code": "HU16 4QP",
+                        "locality": "Cottingham",
+                        "region": "North Humberside",
+                        "address_line_1": "17 Hoylake Close"
+                    }
+                },
+                {
+                    "name": "SCALE LANE FORMATIONS LIMITED",
+                    "officer_role": "corporate-nominee-secretary",
+                    "appointed_on": "1995-05-09",
+                    "address": {
+                        "postal_code": "HU13 0EJ",
+                        "locality": "Hessle",
+                        "region": "North Humberside",
+                        "address_line_1": "16 Waterside Park",
+                        "address_line_2": "Livingstone Road"
+                    }
+                },
+                {
+                    "name": "FOWLER, Shaun Robert",
+                    "officer_role": "director",
+                    "appointed_on": "1995-05-10",
+                    "address": {
+                        "postal_code": "HU16 4QP",
+                        "locality": "Cottingham",
+                        "region": "North Humberside",
+                        "address_line_1": "17 Hoylake Close"
+                    }
+                },
+                {
+                    "name": "WHITELEY, Paul",
+                    "officer_role": "director",
+                    "appointed_on": "1995-05-10",
+                    "address": {
+                        "postal_code": "HU17 9HH",
+                        "locality": "Beverley",
+                        "region": "East Yorkshire",
+                        "address_line_1": "19 Kings Square"
+                    }
+                },
+                {
+                    "name": "SCALE LANE REGISTRARS LIMITED",
+                    "officer_role": "corporate-nominee-director",
+                    "appointed_on": "1995-05-09",
+                    "address": {
+                        "postal_code": "HU13 0EJ",
+                        "locality": "Hessle",
+                        "region": "North Humberside",
+                        "address_line_1": "16 Waterside Park",
+                        "address_line_2": "Livingstone Park"
+                    }
+                }
+            ]
+        }
+    ]
+}
